@@ -20,6 +20,7 @@ In the upcoming sections, we will explore the technical details of our ETL proce
 **Dashboard Power BI**
 
 Voici un aperçu du dashboard Power BI utilisé dans ce projet :
+
 ![Description de l'image](/Users/abdelraouf/Desktop/Home page.png)
 
 ![Description de l'image](/Users/abdelraouf/Desktop/Sales Performances.png)

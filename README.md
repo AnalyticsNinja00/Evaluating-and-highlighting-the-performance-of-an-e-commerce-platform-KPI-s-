@@ -1,3 +1,5 @@
+# Evaluating and highlighting the performance of an e-commerce platform : Customized ETL Python and PowerBI Dashboard with A focus on key performance indicators (KPIs) (Case study : E-commerce platform Olist Store) 
+
 This project is centered around implementing an **ETL (Extract, Transform, Load) process in Python** to meticulously prepare our dataset for comprehensive analysis. In the competitive landscape of business, understanding performance metrics is indispensable. It provides deep insights into market trends, effective strategies for customer acquisition, and identification of potential growth opportunities.
 
 Our primary focus will be analyzing the performance of an eCommerce platform. We aim to delve into crucial aspects such as customer growth, product quality, and the efficiency of different payment methods. This analysis is essential to understand the strengths and weaknesses of the platform and to strategize for future enhancements.
@@ -19,7 +21,7 @@ In the upcoming sections, we will explore the technical details of our ETL proce
 
 **Dashboard Power BI**
 
-Voici un aperçu du dashboard Power BI utilisé dans ce projet :
+Here's an overview of the Power BI dashboard used in this project:
 
 ![Page d'accueil](Home%20page.png)
 ![Performances des ventes](Sales%20Performances.png)

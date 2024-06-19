@@ -28,3 +28,8 @@ Here's an overview of the Power BI dashboard used in this project:
 ![Performances des vendeurs](Sellers%20Performances.png)
 
 
+## Jupyter Notebook
+
+To provide a holistic view of all the information, we have included a Jupyter Notebook that contains the details of the ETL process and key performance indicators (KPIs).
+
+[![Notebook ETL and KPIs](NoteBookETLpython_KPi's.ipynb)](NoteBookETLpython_KPi's.ipynb)

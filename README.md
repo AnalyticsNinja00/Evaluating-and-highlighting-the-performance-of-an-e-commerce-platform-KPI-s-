@@ -23,7 +23,6 @@ In the upcoming sections, we will explore the technical details of our ETL proce
 
 Here's an overview of the Power BI dashboard used in this project:
 
-![Page d'accueil](Home%20page.png)
 ![Performances des ventes](Sales%20Performances.png)
 ![Performances des vendeurs](Sellers%20Performances.png)
 
